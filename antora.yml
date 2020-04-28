@@ -1,0 +1,6 @@
+name: autotestpro
+title: Autotestpro
+version: 6.0
+nav:
+- modules/autotestpro/nav.adoc
+

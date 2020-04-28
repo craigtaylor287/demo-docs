@@ -1,0 +1,23 @@
+* xref:index.adoc[Start Here]
+** xref:install_guide.adoc[Installation]
+** xref:index.adoc[Licensing]
+** xref:index.adoc[Tutorials]
+** xref:first_test.adoc[Demo]
+
+* xref:index.adoc[Latest Version]
+** xref:index.adoc[What's New?]
+** xref:index.adoc[Download]
+** xref:index.adoc[Migration]
+** xref:autotestpro:releases.adoc[Previous Releases]
+
+* xref:index.adoc[Technical Support]
+** xref:index.adoc[Support and Resources]
+
+* xref:index.adoc[Create & Run Tests]
+** xref:index.adoc[Create Tests]
+** xref:index.adoc[Run Tests]
+** xref:index.adoc[Interpretting Test Results]
+
+* xref:index.adoc[More]
+** xref:index.adoc[Contact Us]
+** xref:index.adoc[Reference]
